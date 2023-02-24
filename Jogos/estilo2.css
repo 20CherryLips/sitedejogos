@@ -1,0 +1,21 @@
+body{
+    background-color:rgba(207, 248, 255, 0.941) ;
+}
+
+h1 {
+    color: #2cd134;
+    text-align: center;
+}
+
+h2{
+    border-style: dashed;
+    background-color: #9cffa1;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+html{  
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+body {
+    background-color:#fce2ac;
+}
+
+h1 {
+    color: #f05f32;
+    text-align: center;
+}
+
+h2{
+    border-style:dashed ;
+    background-color: rgb(245, 245, 199);
+    border-color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+}
+
+html{  
+    text-align: center;
+}
+
+p{
+    font-family: sans-serif;
+}
